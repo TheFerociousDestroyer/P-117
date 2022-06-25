@@ -1,0 +1,26 @@
+#show_sketch{
+    float: right;
+}
+h1{
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-color:blanchedalmond
+}
+#score
+{
+    font-size: 13;
+    margin: left;
+    float: left;
+}
+#timer{
+    float: right;
+    margin: right;
+    font-size: 13;
+
+}
+#Sketch{
+    color: red;
+}
